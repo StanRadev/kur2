@@ -1,2 +1,1 @@
 # kur2
-lalalalala
